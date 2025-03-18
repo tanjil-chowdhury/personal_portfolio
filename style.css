@@ -1,0 +1,11 @@
+h1 {
+    font-family: "Dancing Script", serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+.carousel-item img{
+height: 85vh;
+width: 90%;
+}
